@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with mastering Docker.
 - 💬 Ask me about web development and PHP.
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Email](vikumkalhara16@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vikumkalhara&style=flat-square&color=blue)
 
